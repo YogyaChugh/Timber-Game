@@ -20,4 +20,4 @@ Then the exe build command would change to :-
 
 `g++ Timber.cpp resource.o -Iinclude -Llib -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio -o Timber.exe`
 
-> Add --static flag for independent exe. Add -mwindows flag for non-console application.
+> Add **--static** flag for independent exe. Add **-mwindows** flag for non-console application.
